@@ -1,0 +1,17 @@
+export default `<!doctype html>
+<html lang="en" data-beasties-container="">
+<head>
+  <meta charset="utf-8">
+  <title>3D Print</title>
+  <base href="/3dp-landing/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Readex+Pro:wght@160..700&family=Tektur:wght@400..900&display=swap');
+  </style>
+<style>:root{--black:#0C100E;--white:#F1F7F7;--pure-white:#FFF;--dark-gray:#191A1A;--gray:#6F7D7D;--text-light-green:#AACBC4;--main-green:#00DF82}html,body{margin:0;padding:0;height:100%;overflow-x:hidden}html *,body *{font-family:Montserrat,sans-serif;font-optical-sizing:auto;font-style:normal}</style><link rel="stylesheet" href="styles-ZSJAK55T.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-ZSJAK55T.css"></noscript></head>
+<body ngcm="">
+  <app-root></app-root>
+<script src="polyfills-5CFQRCPP.js" type="module"></script><script src="main-OYRKQH3B.js" type="module"></script></body>
+</html>
+`;
